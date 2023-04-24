@@ -124,7 +124,7 @@ background-image: url("letras.jfif");
     text-align: justify;
     color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-image: url("renovable.jpg");
+    background-image: url("atardecer.jpg");
 }
 
 .encabezadoY{
@@ -142,7 +142,7 @@ background-image: url("letras.jfif");
     width: 20%;
     height: 1650px;
     background-color: rgb(56, 21, 88);
-    background-image: url("jirasoles.jpeg");
+    background-image: url("mariposa1.jpg");
 }
 .derechaY{
     width: 20%;
@@ -152,7 +152,7 @@ background-image: url("letras.jfif");
     text-align: center;
     color: rgb(255, 255, 255);
     font-family: cursive;
-    background-image: url("jirasoles.jpeg");
+    background-image: url("mariposa1.jpg");
 }
 
 .contenedorY{
