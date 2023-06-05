@@ -11,7 +11,7 @@
     
     body{
     
-    background-image: url("fondo.jpg");
+    background-image: url("marmol.jpg");
     
     background-repeat: no-repeat;
     
@@ -43,7 +43,7 @@
     
     .contenedor{
     
-     
+     background: image();
     
     height: 230px;
     
