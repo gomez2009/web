@@ -17,8 +17,48 @@
     
     }
     
+    .fondoingles2{
+    
+        background-image: url("galaxia.jpg");
+        
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+        }
     
     
+        .fondobiologia2{
+    
+            background-image: url("hoja.jfif");
+            
+            background-repeat: no-repeat;
+            background-size: cover;
+
+        }
+
+        .fondomatematicas2{
+    
+            background-image: url("planeta.jpg");
+            
+            background-repeat: no-repeat;
+            background-size: cover;
+            
+            }
+        
+            .fondosociales2{
+    
+                background-image: url("francia.jpg");
+                
+                background-repeat: no-repeat;
+                background-size: cover;
+                
+                }
+
+
+
+
+        
+
     .img{
     
     position: relative;
@@ -62,3 +102,53 @@
      
     
     }
+
+    .contenido{
+
+        height: 280px;
+        
+        width: 100%;
+        
+        position: absolute;
+        
+        top: 410px;
+        
+         
+        
+        }
+        
+         
+        
+        .imagensociales2{
+        
+         
+        
+        background-repeat: no-repeat;
+        
+        float:left;
+        
+        height: 200px;
+        
+        width: 260px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("francia.jfif");
+        
+        }
+        
+        
+        
+        .textosociales{
+        
+        text-align: justify;
+        
+        color: azure;
+        
+        font-size: 20px;
+        
+        
+        
+        }
