@@ -1,317 +1,214 @@
 *{
-padding: 0px;
-margin: 0px;
-}
-    
-    
-body{
-background-image: url("marmol.jpg");
-background-repeat: no-repeat;
-}
-    
- .fondoingles2{
-background-image: url("galaxia.jpg");
-background-repeat: no-repeat;
-background-size: 3000px;
-text-align: justify ;
-}
 
-.fondorelijion2{
-background-image: url("mariposa1.jpg");
-background-repeat: no-repeat;
-background-size: cover;
-}
+    padding: 0px;
+    
+    margin: 0px;
+    
+    }
     
     
-.fondobiologia2{
-background-image: url("hoja.jfif");
-background-repeat: no-repeat;
-background-size: cover;
-}
+    
+    
+    body{
+    
+    background-image: url("marmol.jpg");
+    
+    background-repeat: no-repeat;
+    
+    }
+    
+    .fondoingles2{
+    
+        background-image: url("galaxia.jpg");
+        
+        background-repeat: no-repeat;
+        background-size: 5000px;
+
+        
+        }
+    
+    
+        .fondobiologia2{
+    
+            background-image: url("hoja.jfif");
+            
+            background-repeat: no-repeat;
+            background-size: cover;
+
+        }
+
+        .fondomatematicas2{
+    
+            background-image: url("planeta.jpg");
+            
+            background-repeat: no-repeat;
+            background-size: cover;
+            
+            }
+        
+            .fondosociales2{
+    
+                background-image: url(".jpg");
+                
+                background-repeat: no-repeat;
+                background-size: cover;
+               }
+
+  .fondotecnologia2{
+    
+                background-image: url("pluton.jpg");
+                
+                background-repeat: no-repeat;
+                background-size: cover;
+                
+                }
 
 
-.fondomatematicas2{
-background-image: url("planeta.jpg");
-background-repeat: no-repeat;
-background-size: cover;
-}
+                
+                .fondorelijion2{
+    
+                    background-image: url("mariposa.jpg");
+                    
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    
+                    }
+
+
         
 
-.fondosociales2{
-background-image: url("francia.jpg");
-background-repeat: no-repeat;
-background-size: cover;
-text-align: justify;
-}
-
-
-
-
-.img{
-position: relative;
-width: 190px;
-height: 190px;
-border-radius: 10px;
-background-repeat: no-repeat;
-left: 180px;
-background-image: url("medellin.jpeg");
- }
-
-.contenedor{
-background: image();
-height: 230px;  
-}
-
-.texto{
-font-size: 40px; 
-text-align: justify;
-color: brown; 
-}
-
-
-.contenido{
-height: 280px;
-width: 100%; 
-position: absolute;
-top: 410px;   
-}
-        
-.imagensocia{
-background-repeat: no-repeat; 
-float:left;
-height: 200px;
-width: 260px;
-margin-left: 5px;
-margin-right:5px;   
-background-image: url("Playa.jpg");
-}
-        
-.textosocia{
-text-align: justify;
-color: azure;
-font-size: 20px;
-}
-
-
-
-
-
-.img{
-position: relative;
-width: 190px;
-height: 190px;
-border-radius: 10px;
-background-repeat: no-repeat;
-left: 180px;
-background-image: url("medellin.jpeg");}
-        
-.contenedor{
-background: image();
-height: 230px;}
-        
-.texto{
-font-size: 40px;
-text-align: justify;
-color: brown;}
+    .img{
     
-.contenido{
-height: 280px;
-width: 100%;
-position: absolute;
-top: 410px;}
+    position: relative;
     
-.imageningles{
-background-repeat: no-repeat;
-float:left;
-height: 400px;
-width: 100px;
-margin-left: 5px;
-margin-right:5px;
-background-image: url("galaxia.jpg");}
+     
+    
+    width: 190px;
+    
+    height: 190px;
+    
+    border-radius: 10px;
+    
+    background-repeat: no-repeat;
+    
+     
+    
+    left: 180px;
+    
+    background-image: url("medellin.jpeg");
+    
+    }
+    
+    .contenedor{
+    
+     background: image();
+    
+    height: 230px;
+    
+     
+    
+    }
+    
+    .texto{
+    
+    font-size: 40px;
+    
+    text-align: justify;
+    
+    color: brown;
+    
+     
+    
+    }
+
+    .contenido{
+
+        height: 280px;
+        
+        width: 100%;
+        
+        position: absolute;
+        
+        top: 410px;
+        
          
-.textoingles{
-text-align: justify;
-color: azure;
-font-size: 20px;}
-
-
-
-
-
-.img{
-position: relative;
-width: 190px;
-height: 190px;
-border-radius: 10px;
-background-repeat: no-repeat;
-left: 180px;
-background-image: url("medellin.jpeg");}
-            
-.contenedor{
-background: image();
-height: 230px;}
-            
-.texto{
-font-size: 40px;
-text-align: justify;
-color: brown;}
         
-.contenido{
-height: 280px;
-width: 100%;
-position: absolute;
-top: 410px;}
+        }
         
-.imagenmate{
-background-repeat: no-repeat;
-float:left;
-height: 200px;
-width: 260px;
-margin-left: 5px;
-margin-right:5px;
-background-image: url("carros.jpg");}
-             
-.textomate{
-text-align: justify;
-color: azure;
-font-size: 20px;}
+         
+        
+        .imagensociales2{
+        
+         
+        
+        background-repeat: no-repeat;
+        
+        float: left ;
+        
+        height: 200px;
+        
+        width: 100px;
+        
+        margin-left: 5px;
+        
+        margin: right 30px;
+        
+        background-image: url("francia.jfif");
+        
+        }
+        
+        
+        
+        .textosociales2{
+        
+        text-align: justify ;
+        
+        color: azure;
+        
+        font-size: 20px;
+        
+        
+        
+        }
 
-
-
-
-.img{
-position: relative;
-width: 190px;
-height: 190px;
-border-radius: 10px;
- background-repeat: no-repeat;
-left: 180px;
-background-image: url("mate.jpg");}
+        .img{
+            position: relative;
+            width: 190px;
+            height: 190px;
+            border-radius: 10px;
+            background-repeat: no-repeat;
+            left: 180px;
+            background-image: url("medellin.jpeg");}
                 
-.contenedor{
-background: image();
-height: 230px;}
+            .contenedor{
+            background: image();
+            height: 230px;}
                 
-.texto{
-font-size: 40px;
-text-align: justify;
-color: brown;}
+            .texto{
+            font-size: 40px;
+            text-align: justify;
+            color: brown;}
             
-.contenido{
-height: 280px;
-width: 100%;
-position: absolute;
-top: 410px;}
+            .contenido{
+            height: 280px;
+            width: 100%;
+            position: absolute;
+            top: 410px;}
             
-.imagentecno{
-background-repeat: no-repeat;
-float:right;
-height: 200px;
-width: 260px;
-margin-left: 5px;
-margin-right:5px;
-background-image: url("mariposa1.jpg");}
+            .imageningles2{
+            background-repeat: no-repeat;
+            float:left;
+            height: 200px;
+            width: 260px;
+            margin-left: 5px;
+            margin-right:5px;
+            background-image: url("carros.jpg");}
                  
-.textotecno{
-text-align: justify;
-color: azure;
-font-size: 20px;}.img{
-position: relative;
-width: 190px;
-height: 190px;
-border-radius: 10px;
-background-repeat: no-repeat;
-left: 180px;
-background-image: url("medellin.jpeg");}
-        
+            .textoingles2{
+            text-align: justify;
+            color: azure;
+            font-size: 20px;}
 
 
 
-.img{
-position: relative;
-width: 190px;
-height: 190px;
-border-radius: 10px;
-background-repeat: no-repeat;
-left: 180px;
-background-image: url("medellin.jpeg");}
-            
-.contenedor{
-background: image();
-height: 230px;}
-            
-.texto{
-font-size: 40px;
-text-align: justify;
-color: brown;}
-        
-.contenido{
-height: 280px;
-width: 100%;
-position: absolute;
-top: 410px;}
-        
-.imagenbiolo{
-background-repeat: no-repeat;
-float:left;
-height: 200px;
-width: 260px;
-margin-left: 5px;
-margin-right:5px;
-background-image: url("carros.jpg");}
-             
-.textobiolo{
-text-align: justify;
-color: rgb(29, 148, 45);
-font-size: 20px;}
-
-
-
-.img{
-position: relative;
-width: 190px;
-height: 190px;
-border-radius: 10px;
-background-repeat: no-repeat;
-left: 180px;
-background-image: url("medellin.jpeg");}
-                
-.contenedor{
-background: image();
-height: 230px;}
-                
-.texto{
-font-size: 40px;
-text-align: justify;
-color: brown;}
-            
-.contenido{
-height: 280px;
-width: 100%;
- position: absolute;
-top: 410px;}
-            
-.imagenreli{
-background-repeat: no-repeat;
-flo
-height: 200px
-width: 260px
-margin-left: 5px;
-margin-right:5px
-background-image: url("germenes.jpg");}
-                 
-.textoreli{
-text-align:left ;
-color: azure;
-font-size: 20px;}
-
-
-
-
-
-
-
-
-
-
-
+    
