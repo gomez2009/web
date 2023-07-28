@@ -129,7 +129,7 @@
         
         position: absolute;
         
-        top: 410px;
+        top: 320px;
         
         }
         
@@ -176,21 +176,8 @@
             text-align: justify;
             color: brown;}
             
-            .contenido{
-            height: 280px;
-            width: 100%;
-            position: absolute;
-            top: 410px;}
-            
-            .imageningles2{
-            background-repeat: no-repeat;
-            float:left;
-            height: 200px;
-            width: 260px;
-            margin-left: 5px;
-            margin-right:5px;
-            background-image: url("carros.jpg");}
-                 
+           
+        
             .textoingles2{
             text-align: justify;
             color: azure;
@@ -201,15 +188,15 @@
         
             .imagenrelijion2{
                 background-repeat: no-repeat;
-                float:left;
+                
                 height: 1000px;
                 width: 1000px;
-                margin-left: 100px;
+    
                 margin-right:100px;
                 background-image: url("mapa\ budismo.png");}
                      
                 .textorelijion2{
-                text-align: justify;
+                text-align: left;
                 color: azure;
                 font-size: 20px;}
 
