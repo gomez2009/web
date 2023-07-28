@@ -1,172 +1,202 @@
 *{
-
-    padding: 0px;
-    
-    margin: 0px;
-    
+ padding: 0px;
+ margin: 0px;
     }
-    
-    
     
     
     body{
-    
-    background-image: url("marmol.jpg");
-    
-    background-repeat: no-repeat;
-    
+ background-image: url("marmol.jpg");
+ background-repeat: no-repeat;
     }
     
-    .fondoingles2{
-    
-        background-image: url("galaxia.jpg");
-        
-        background-repeat: no-repeat;
-        background-size: cover;
-        
+
+
+.fondoingles2{
+ background-image: url("galaxia.jpg");
+ background-repeat: no-repeat;
+ background-size: 5000px;
         }
     
     
-        .fondobiologia2{
-    
-            background-image: url("hoja.jfif");
-            
-            background-repeat: no-repeat;
-            background-size: cover;
-
+ .fondobiologia2{
+ background-image: url("hoja.jfif");
+ background-repeat: no-repeat;
+ background-size: cover;
         }
 
-        .fondomatematicas2{
-    
-            background-image: url("planeta.jpg");
-            
-            background-repeat: no-repeat;
-            background-size: cover;
-            
-            }
-        
-            .fondosociales2{
-    
-                background-image: url("francia.jpg");
-                
-                background-repeat: no-repeat;
-                background-size: cover;
-                
-                }
 
-  .fondotecnologia2{
-    
-                background-image: url("pluton.jpg");
-                
-                background-repeat: no-repeat;
-                background-size: cover;
-                
-                }
-
-
-                
-                .fondorelijion2{
-    
-                    background-image: url("mariposa.jpg");
-                    
-                    background-repeat: no-repeat;
-                    background-size: cover;
-                    
-                    }
-
-
+.fondomatematicas2{
+ background-image: url("hueso.jpeg");
+ background-repeat: no-repeat;
+ background-size: cover;
+ }
         
 
-    .img{
-    
-    position: relative;
-    
-     
-    
-    width: 190px;
-    
-    height: 190px;
-    
-    border-radius: 10px;
-    
-    background-repeat: no-repeat;
-    
-     
-    
-    left: 180px;
-    
-    background-image: url("medellin.jpeg");
-    
-    }
-    
-    .contenedor{
-    
-     background: image();
-    
-    height: 230px;
-    
-     
-    
-    }
-    
-    .texto{
-    
-    font-size: 40px;
-    
-    text-align: justify;
-    
-    color: brown;
-    
-     
-    
-    }
 
-    .contenido{
 
-        height: 280px;
+.fondosociales2{
+ background-image: url("torre.jpeg");
+ background-repeat: no-repeat;
+  background-size: 3000px;
+ }
+
+
+
+ .imagenrelijion2{
+background-repeat: no-repeat;
+height: 1000px;
+width: 1000px;
+margin-right:100px;
+background-image: url("mapa\ budismo.png");
+}
+ 
+.imagentecnologia2{
+background-repeat: no-repeat;
+height: 200px;
+width: 1000px;
+margin-right:100px;
+background-image: url("elec.jpg");
+}
+
+.imagenbasica{
+background-repeat: no-repeat;
+height: 200px;
+width: 2500px;
+margin-right:100px;
+background-image: url("gift.gif");
+ }
+
+
+
+
+.fondotecnologia2{
+ background-image: url("flor.jpeg"); 
+ background-repeat: no-repeat;
+ background-size: 2500px;
+ }
+
+
+.fondorelijion2{
+ background-image: url("mariposa.jpg");
+ background-repeat: no-repeat;
+ background-size: 4000px;
+ }
+
+
         
-        width: 100%;
-        
-        position: absolute;
-        
-        top: 410px;
+
+.img{
+ position: relative;
+ width: 190px;
+ height: 190px;
+ border-radius: 10px;
+ background-repeat: no-repeat;
+ left: 180px;
+ background-image: url("medellin.jpeg");
+ }
+    
+.contenedor{
+ background: image();
+ height: 250px;
+}
+    
+
+.texto{
+ font-size: 40px;
+ text-align: justify;
+ color: brown;
+}
+
+   
+.contenido{
+height: 280px;
+width: 100%;
+position: absolute;
+top: 255px;
+}
         
          
-        
-        }
-        
-         
-        
-        .imagensociales2{
-        
-         
-        
-        background-repeat: no-repeat;
-        
-        float:left;
-        
-        height: 200px;
-        
-        width: 260px;
-        
-        margin-left: 5px;
-        
-        margin-right:5px;
-        
-        background-image: url("francia.jfif");
-        
-        }
-        
-        
-        
-        .textosociales{
-        
-        text-align: justify;
-        
-        color: azure;
-        
-        font-size: 20px;
-        
-        
-        
-        }
+.imagensociales2{
+background-repeat: no-repeat;
+float:left;
+height: 0px;
+width: 0px;
+margin-left: 0px;
+margin-right:0px;
+background-image: url("");
+}
+      
+.textotecnologia2{
+    text-align: left ;
+    color: azure;
+    font-size: 20px;
+     }
+
+
+
+
+
+.textosociales2{
+text-align: left ;
+color: azure;
+font-size: 20px;
+ }
+
+
+
+.img{
+position: relative;
+ width: 190px;
+ height: 190px;
+border-radius: 10px;
+background-repeat: no-repeat;
+left: 180px;
+background-image: url("medellin.jpeg");
+}
+                
+
+
+.contenedor{
+background: image();
+height: 230px;
+}
+             
+
+
+
+.texto{
+font-size: 40px;
+text-align: justify;
+color: brown;
+}
+            
+           
+
+.textoingles2{
+text-align: justify;
+color: azure;
+font-size: 20px;
+}
+
+             
+
+.textorelijion2{
+text-align: left;
+color: azure;
+font-size: 20px;
+}
+
+
+.textotecnologia2{
+    text-align: left;
+    color: azure;
+    font-size: 20px;
+    }
+    
+
+            
+
+
+
+
+    
