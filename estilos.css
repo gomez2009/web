@@ -69,6 +69,19 @@ background-image: url("gift.gif");
 
 
 
+
+ .imagenbasica2{
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 2500px;
+    margin-right:100px;
+    background-image: url("cables.gif");
+     }
+    
+
+
+
+
 .fondotecnologia2{
  background-image: url("flor.jpeg"); 
  background-repeat: no-repeat;
