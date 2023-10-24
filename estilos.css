@@ -227,7 +227,7 @@ font-size: 20px;
 .fondomatematicas3{
       background-image: url("libertad.jpg");
       background-repeat: no-repeat;
-      background-size: 1500px;
+      background-size: 1800px;
              }
 
 
@@ -256,25 +256,73 @@ font-size: 20px;
 
 
 
+.imagenfactori{
+background-repeat: no-repeat;
+float:left;
+height: 218px;
+width: 200px;
+margin-left: 0px;
+margin-right:0px;
+background-image: url("fac.jpg");
+}
+
+
+.imagenfactorizacion{
+       background-repeat: no-repeat;
+       float:left;
+       height: 170px;
+       width: 400px;
+       margin-left: 90px;
+       margin-right: 90px;
+       background-image: url("factorizacion.png");
+       }
 
 
 
 
+.imagenfact{
+       background-repeat: no-repeat;
+       float:left;
+       height: 170px;
+       width: 400px;
+       margin-left: px;
+       margin-right: px;
+       background-image: url("fact.jpeg");
+       }
+
+
+.imagenmate{
+       background-repeat: no-repeat;
+       float:left;
+       height: 170px;
+       width: 400px;
+       margin-left: px;
+       margin-right: px;
+       background-image: url("trino.GIF");
+       }
+
+
+       .imagenmatema{
+              background-repeat: no-repeat;
+              float:left;
+              height: 170px;
+              width: 400px;
+              margin-left: px;
+              margin-right: px;
+              background-image: url("trinomi.jpeg");
+              }
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+ .imagenmatemati{
+              background-repeat: no-repeat;
+              float:left;
+              height: 170px;
+              width: 400px;
+              margin-left: px;
+              margin-right: px;
+              background-image: url("trinomio.jpg");
+              }
 
 
 
