@@ -212,7 +212,7 @@ font-size: 20px;
     .fondobiologia3{
       background-image: url("libertad.jpg");
       background-repeat: no-repeat;
-      background-size: 2500px;
+      background-size: 2600px;
              }
 
              .textobiologia3{
@@ -228,9 +228,9 @@ font-size: 20px;
 
 
 .fondoingles3{
-      background-image: url("libertad.jpg");
+      background-image: url("color.avif");
       background-repeat: no-repeat;
-      background-size: 1500px;
+      background-size: 1000000px;
              }
 
 
@@ -335,39 +335,131 @@ background-image: url("fac.jpg");
               }
 
 
+.fotobiologia3{
+       background-repeat: no-repeat;
+       float:left;
+       height: 200px;
+       width: 400px;
+       margin-left: px;
+       margin-right: px;
+       background-image: url("adrenalina.png");
+       }
+
+
+.imagenbata{
+       background-repeat: no-repeat;
+       float:left;
+       height: 200px;
+       width: 400px;
+       margin-left: px;
+       margin-right: px;
+       background-image: url("bata.jpg");
+       }
+
+
+
+       .fotoingles{
+              background-repeat: no-repeat;
+              float:left;
+              height: 200px;
+              width: 400px;
+              margin-left: px;
+              margin-right: px;
+              background-image: url("tera.jpg");
+              }
+
+
+
+    .imageningle{
+              background-repeat: no-repeat;
+              float:left;
+              height: 200px;
+              width: 400px;
+              margin-left: px;
+              margin-right: px;
+              background-image: url("ingle.jpeg");
+              }
+
+
+
+    .fotoin{
+              background-repeat: no-repeat;
+              float:left;
+              height: 200px;
+              width: 400px;
+              margin-left: px;
+              margin-right: px;
+              background-image: url("ingles.jpg");
+       }
+
+
+.fotoing{
+              background-repeat: no-repeat;
+              float:left;
+              height: 200px;
+              width: 400px;
+              margin-left: px;
+              margin-right: px;
+              background-image: url("vio.png");
+       }
+
+
+.fotodifere{
+              background-repeat: no-repeat;
+              float:left;
+              height: 200px;
+              width: 400px;
+              margin-left: px;
+              margin-right: px;
+              background-image: url("dife.jpeg");
+       }
+
+
+       .fotolol{
+              background-repeat: no-repeat;
+              float:left;
+              height: 200px;
+              width: 400px;
+              margin-left: px;
+              margin-right: px;
+              background-image: url("niñe.jpeg");
+       }
+
+
+       .fotololl{
+              background-repeat: no-repeat;
+              float:left;
+              height: 200px;
+              width: 400px;
+              margin-left: px;
+              margin-right: px;
+              background-image: url("niño.jpeg");
+       }
 
 
 
 
+       .fotoli{
+              background-repeat: no-repeat;
+              float:left;
+              height: 200px;
+              width: 400px;
+              margin-left: px;
+              margin-right: px;
+              background-image: url("dife.jpeg");
+       }
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ .fotosn{
+              background-repeat: no-repeat;
+              float:left;
+              height: 200px;
+              width: 400px;
+              margin-left: px;
+              margin-right: px;
+              background-image: url("estereo.jpeg");
+       }
 
 
 
